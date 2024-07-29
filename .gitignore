@@ -1,2 +1,6 @@
-.idea
-.target
+.idea/
+src.idea/
+src.out/
+geo-service.iml
+main.iml
+test.iml
